@@ -1,0 +1,298 @@
+Starting program for the day ... waiting on next 5-min bar
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 6 47 40
+
+Starting program for the day ... waiting on next 5-min bar
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 6 48 27
+
+Starting program for the day ... waiting on next 5-min bar
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 7 11 18
+
+
+Current m/d/y = 08-30-2024
+Current NY hr, min, sec = 7:15:00
+Finished getting new 5-min bar data
+SPY last = 561.720
+Donchian width = 4.040
+EMA last = 561.352
+SPY - EMA = 0.368
+SPY current position  = 0
+SPY average cost = 0.000
+Starting program for the day ... waiting on next 5-min bar
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 7 20 20
+
+
+Current m/d/y = 08-30-2024
+Current NY hr, min, sec = 7:20:20
+Finished getting new 5-min bar data
+SPY last = 561.960
+Donchian width = 4.280
+EMA last = 561.500
+SPY - EMA = 0.460
+SPY current position  = 0
+SPY average cost = 0.000
+Starting program for the day ... waiting on next 5-min bar
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 9 16 32
+
+Starting program for the day ... waiting on next 5-min bar
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 10 38 12
+
+
+Current m/d/y = 08-30-2024
+Current NY hr, min, sec = 10:40:00
+Finished getting new 5-min bar data
+SPY last = 558.720
+Donchian width = 2.070
+EMA last = 559.202
+SPY - EMA = -0.482
+SPY current position  = 10.0
+SPY average cost = 558.797
+
+Current m/d/y = 08-30-2024
+Current NY hr, min, sec = 10:45:01
+Finished getting new 5-min bar data
+SPY last = 558.880
+Donchian width = 1.810
+EMA last = 559.022
+SPY - EMA = -0.142
+SPY current position  = 20.0
+SPY average cost = 558.968
+Starting program for the day ... waiting on next 5-min bar
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 10 54 03
+
+
+Current m/d/y = 08-30-2024
+Current NY hr, min, sec = 10:55:01
+Finished getting new 5-min bar data
+SPY last = 559.000
+Donchian width = 1.430
+EMA last = 558.929
+SPY - EMA = 0.071
+SPY current position  = 40.0
+SPY average cost = 562.190
+
+Current m/d/y = 08-30-2024
+Current NY hr, min, sec = 11:00:00
+Finished getting new 5-min bar data
+SPY last = 559.040
+Donchian width = 0.870
+EMA last = 558.929
+SPY - EMA = 0.111
+SPY current position  = 80.0
+SPY average cost = 560.673
+Starting program for the day ... waiting on next 5-min bar
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 16 22 39
+
+Started test program
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 16 25 42
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 30.0
+SPY average cost = 560.6725
+Placing order for 20 SPY
+Placing order for 20 SPY
+08/30/2024 16:26:33 SPY -1 20.0 563.63
+08/30/2024 16:26:33 SPY -1 20.0 563.5
+Started test program
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 16 26 15
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 30.0
+SPY average cost = 560.6725
+Placing order for 20 SPY
+Placing order for 20 SPY
+08/30/2024 16:30:47 SPY 1 20.0 563.58
+08/30/2024 16:30:57 SPY -1 20.0 563.45
+Started test program
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 16 30 47
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 30.0
+SPY average cost = 561.8755
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 18 55 12
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 30.0
+SPY average cost = 562.5773
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 21 43 57
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 30.0
+SPY average cost = 559.155
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 22 25 01
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 30.0
+SPY average cost = 559.155
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 22 29 52
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 30.0
+SPY average cost = 559.155
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 30 08 2024
+Current NYhour, minute, second = 22 31 40
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 2 11 45
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 2 19 43
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 3 23 44
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 5 08 38
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 5 16 53
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 5 21 41
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 5 26 17
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 5 35 24
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 5 36 03
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 5 37 04
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 5 38 26
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 5 43 37
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 5 46 09
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 0
+SPY average cost = 0
+Placing order for 20 SPY
+Placing order for 20 SPY
+Started test program
+Current day, month, year = 31 08 2024
+Current NYhour, minute, second = 6 54 41
+
+SPY last = 563.56EMA last = 562.357393364929
+SPY current positions is = 30.0
+SPY average cost = 559.155
+Placing order for 20 SPY
+Placing order for 20 SPY
+Starting program for the day ... waiting on next 5-min bar
+Current day, month, year = 01 09 2024
+Current NYhour, minute, second = 19 35 06
+
